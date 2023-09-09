@@ -1,0 +1,1 @@
+server_test.exe --usernames=Ankxel --bots=2 --wait_for=2
